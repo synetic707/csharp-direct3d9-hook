@@ -1,0 +1,5 @@
+C:\Users\synetic\Documents\Visual Studio 2013\Projects\HelloDXOverlay\HelloDXOverlay\bin\Release\overlay.dll
+C:\Users\synetic\Documents\Visual Studio 2013\Projects\HelloDXOverlay\HelloDXOverlay\bin\Release\overlay.pdb
+C:\Users\synetic\Documents\Visual Studio 2013\Projects\HelloDXOverlay\overlay\obj\Release\overlay.csprojResolveAssemblyReference.cache
+C:\Users\synetic\Documents\Visual Studio 2013\Projects\HelloDXOverlay\overlay\obj\Release\overlay.dll
+C:\Users\synetic\Documents\Visual Studio 2013\Projects\HelloDXOverlay\overlay\obj\Release\overlay.pdb

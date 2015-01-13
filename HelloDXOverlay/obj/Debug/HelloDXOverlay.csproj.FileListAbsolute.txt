@@ -1,0 +1,10 @@
+c:\users\synetic\documents\visual studio 2013\Projects\HelloDXOverlay\HelloDXOverlay\bin\Debug\HelloDXOverlay.exe.config
+c:\users\synetic\documents\visual studio 2013\Projects\HelloDXOverlay\HelloDXOverlay\bin\Debug\HelloDXOverlay.exe
+c:\users\synetic\documents\visual studio 2013\Projects\HelloDXOverlay\HelloDXOverlay\bin\Debug\HelloDXOverlay.pdb
+c:\users\synetic\documents\visual studio 2013\Projects\HelloDXOverlay\HelloDXOverlay\obj\Debug\HelloDXOverlay.csprojResolveAssemblyReference.cache
+c:\users\synetic\documents\visual studio 2013\Projects\HelloDXOverlay\HelloDXOverlay\obj\Debug\HelloDXOverlay.Properties.Resources.resources
+c:\users\synetic\documents\visual studio 2013\Projects\HelloDXOverlay\HelloDXOverlay\obj\Debug\HelloDXOverlay.csproj.GenerateResource.Cache
+c:\users\synetic\documents\visual studio 2013\Projects\HelloDXOverlay\HelloDXOverlay\obj\Debug\HelloDXOverlay.exe
+c:\users\synetic\documents\visual studio 2013\Projects\HelloDXOverlay\HelloDXOverlay\obj\Debug\HelloDXOverlay.pdb
+C:\Users\synetic\Documents\Visual Studio 2013\Projects\HelloDXOverlay\HelloDXOverlay\bin\Debug\EasyHook.dll
+C:\Users\synetic\Documents\Visual Studio 2013\Projects\HelloDXOverlay\HelloDXOverlay\obj\Debug\HelloDXOverlay.Form1.resources

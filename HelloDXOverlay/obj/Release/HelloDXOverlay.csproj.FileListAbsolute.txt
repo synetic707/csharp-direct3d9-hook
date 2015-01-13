@@ -1,0 +1,8 @@
+C:\Users\synetic\Documents\Visual Studio 2013\Projects\HelloDXOverlay\HelloDXOverlay\bin\Release\HelloDXOverlay.exe.config
+C:\Users\synetic\Documents\Visual Studio 2013\Projects\HelloDXOverlay\HelloDXOverlay\bin\Release\HelloDXOverlay.exe
+C:\Users\synetic\Documents\Visual Studio 2013\Projects\HelloDXOverlay\HelloDXOverlay\bin\Release\HelloDXOverlay.pdb
+C:\Users\synetic\Documents\Visual Studio 2013\Projects\HelloDXOverlay\HelloDXOverlay\obj\Release\HelloDXOverlay.Form1.resources
+C:\Users\synetic\Documents\Visual Studio 2013\Projects\HelloDXOverlay\HelloDXOverlay\obj\Release\HelloDXOverlay.Properties.Resources.resources
+C:\Users\synetic\Documents\Visual Studio 2013\Projects\HelloDXOverlay\HelloDXOverlay\obj\Release\HelloDXOverlay.csproj.GenerateResource.Cache
+C:\Users\synetic\Documents\Visual Studio 2013\Projects\HelloDXOverlay\HelloDXOverlay\obj\Release\HelloDXOverlay.exe
+C:\Users\synetic\Documents\Visual Studio 2013\Projects\HelloDXOverlay\HelloDXOverlay\obj\Release\HelloDXOverlay.pdb

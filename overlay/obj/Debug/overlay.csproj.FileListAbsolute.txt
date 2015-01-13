@@ -1,0 +1,12 @@
+C:\Users\synetic\Documents\Visual Studio 2013\Projects\HelloDXOverlay\overlay\bin\Debug\overlay.dll
+C:\Users\synetic\Documents\Visual Studio 2013\Projects\HelloDXOverlay\overlay\bin\Debug\overlay.pdb
+C:\Users\synetic\Documents\Visual Studio 2013\Projects\HelloDXOverlay\overlay\bin\Debug\EasyHook.dll
+C:\Users\synetic\Documents\Visual Studio 2013\Projects\HelloDXOverlay\overlay\bin\Debug\HelloDXOverlay.exe
+C:\Users\synetic\Documents\Visual Studio 2013\Projects\HelloDXOverlay\overlay\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\synetic\Documents\Visual Studio 2013\Projects\HelloDXOverlay\overlay\bin\Debug\SharpDX.dll
+C:\Users\synetic\Documents\Visual Studio 2013\Projects\HelloDXOverlay\overlay\bin\Debug\HelloDXOverlay.pdb
+C:\Users\synetic\Documents\Visual Studio 2013\Projects\HelloDXOverlay\overlay\bin\Debug\SharpDX.xml
+C:\Users\synetic\Documents\Visual Studio 2013\Projects\HelloDXOverlay\overlay\bin\Debug\SharpDX.Direct3D9.xml
+C:\Users\synetic\Documents\Visual Studio 2013\Projects\HelloDXOverlay\overlay\obj\Debug\overlay.csprojResolveAssemblyReference.cache
+C:\Users\synetic\Documents\Visual Studio 2013\Projects\HelloDXOverlay\overlay\obj\Debug\overlay.dll
+C:\Users\synetic\Documents\Visual Studio 2013\Projects\HelloDXOverlay\overlay\obj\Debug\overlay.pdb

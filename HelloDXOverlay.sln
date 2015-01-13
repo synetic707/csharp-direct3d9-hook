@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloDXOverlay", "HelloDXOverlay\HelloDXOverlay.csproj", "{7AD244AC-3D44-48EC-970A-52FB49FF5D3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "overlay", "overlay\overlay.csproj", "{B4347856-CA6A-4A84-B42A-5487210E79D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AD244AC-3D44-48EC-970A-52FB49FF5D3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AD244AC-3D44-48EC-970A-52FB49FF5D3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AD244AC-3D44-48EC-970A-52FB49FF5D3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AD244AC-3D44-48EC-970A-52FB49FF5D3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4347856-CA6A-4A84-B42A-5487210E79D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4347856-CA6A-4A84-B42A-5487210E79D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4347856-CA6A-4A84-B42A-5487210E79D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4347856-CA6A-4A84-B42A-5487210E79D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
